@@ -1,3 +1,5 @@
+# What are Meta-transactions?
+
 Transactions play an essential role on Ethereum, but they require paying gas fees in ETH, which can discourage first time users from onboarding a Dapp
 
 Meta-transactions solve that problem by enabling a third party to pay for a transaction fee on behalf of a user, thus greatly reducing friction.
